@@ -2,6 +2,7 @@
 CATÁLOGO DE INTERVENCIONES DE APRENDIZAJE Y DESARROLLO
 Alineado al Modelo de Evaluación de Kirkpatrick
 Aplicable para empresas de Retail, Consumo Masivo y Servicios
+
 ________________________________________
 1. OBJETIVO DEL CATÁLOGO
 Este catálogo tiene como finalidad estandarizar los diferentes tipos de intervenciones de aprendizaje que pueden implementarse dentro de una organización, identificando:
@@ -14,6 +15,7 @@ Este catálogo tiene como finalidad estandarizar los diferentes tipos de interve
 •	Nivel de Kirkpatrick asociado.
 •	Aplicación dentro de empresas de Retail.
 ________________________________________
+
 CLASIFICACIÓN GENERAL
 Las intervenciones de aprendizaje se agrupan en cuatro grandes categorías:
 A. INFORMACIÓN
